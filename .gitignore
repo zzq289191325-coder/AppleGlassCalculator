@@ -1,0 +1,30 @@
+# .NET / WPF build output
+bin/
+obj/
+artifacts/
+publish/
+
+# Visual Studio and IDE state
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Test, coverage, logs and temporary files
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+*.log
+*.tmp
+*.temp
+*.pdb
+
+# Local machine state
+.DS_Store
+Thumbs.db
+Desktop.ini
+history.json
+
